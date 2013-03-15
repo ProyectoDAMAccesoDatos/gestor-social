@@ -5,7 +5,7 @@ Programa desarrollado para el proyecto final de interfaces y acceso a datos de e
 
 
 ###Miembros del equipo:
-	- Aaron Soria
+	- Aaron Soria asd hola
 	- Adrian Tello
 	- Joan Gonzalez
 	
